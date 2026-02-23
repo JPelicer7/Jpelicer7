@@ -1,7 +1,7 @@
 
 Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/JPelicer7"> 🔗
-  https://gitfollio.vercel.app/JPelicer7
+<a href="https://dev-portfolio-pelicer.vercel.app/"> 🔗
+  https://dev-portfolio-pelicer.vercel.app
 </a>
 <br>
 E-mail: jpelicer12@yahoo.com
